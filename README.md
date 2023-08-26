@@ -10,6 +10,6 @@
 ## Calculate accuracy
 ![image](https://github.com/RajithaSankari/Decision-Tree-Classification/assets/143178294/ed830e1d-ee9c-4c05-b683-ef9ad0f0c5a8) 
  
-Conclusion: A model is successfully completed in Decision Tree Algorithem using Supervision Machine Algorithem with accuracy of 1.00.
+## Conclusion: A model is successfully completed in Decision Tree Algorithem using Supervision Machine Algorithem with accuracy of 1.00.
 
 
